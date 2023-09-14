@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationMap": true,
+        "downlevelIteration": true,
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "skipLibCheck": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "importHelpers": true,
+        "esModuleInterop": true,
+        "jsx": "react",
+        "lib": ["dom", "dom.iterable", "es2017"],
+        "outDir": "./dist/",
+        "module": "commonjs",
+        "target": "es5"
+    },
+    "exclude": []
+}
